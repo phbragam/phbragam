@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as a Software Developer at Bomédico Tecnologia
+- 👷‍♂️ I’m currently working as a Software Developer at Bomédico Tecnologia
 - ⚡ I’m currently working on my indie game. You can follow the development [here](https://x.com/ChanseyDev)
 - 🔧 Proficient in ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) and ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - 💻 Backend Developer using ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) and ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
